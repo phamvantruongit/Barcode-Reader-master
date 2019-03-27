@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private static final int BARCODE_READER_ACTIVITY_REQUEST = 1208;
     private TextView mTvResult;
     private TextView mTvResultHeader;
-
+    //https://github.com/avaneeshkumarmaurya/Barcode-Reader
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
